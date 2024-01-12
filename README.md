@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @luccasgois1
-- 👀 I’m interested in Python and Go Dev
-- 🌱 I’m currently learning: DevOps on Alura.
+- 👀 I’m interested in Python and Go Dev and also Playwright and Cypress test automation
 - 📫 How to reach me: 
   E-mail ---> luccasgois1@gmail.com
   Linkedin ---> https://www.linkedin.com/in/luccas-almeida-44b492174/
