@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @luccasgois1
-- 👀 I’m interested in Python and Go Dev and also Playwright and Cypress test automation
+- Currently I am working as a QA with some expertise on test automation
+- 👀 I’m studing Playwright test automation with a Cucumber as BDD layer
 - 📫 How to reach me: 
   E-mail ---> luccasgois1@gmail.com
   Linkedin ---> https://www.linkedin.com/in/luccas-almeida-44b492174/
